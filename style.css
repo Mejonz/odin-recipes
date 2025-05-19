@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    background-color: antiquewhite;
+
+}
+
+.link-style {
+    display: block;
+    padding: 2px;
+}
+
+img {
+    display:block;
+    margin: auto;
+    height: 300px;
+    width: auto;
+    padding: 10px;
+}
+
+h2 {
+    font-size: 36px;
+}
+
